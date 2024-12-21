@@ -1,5 +1,5 @@
 
-# IMPORTANT NOTES: Time Series Forecasting
+# Time Series Forecasting
 
 ## Time series decomposition
 * Trend: general movement over time
@@ -84,3 +84,5 @@ There are a couple of problems with simple moving averages:
 ### Exponential Weighted Moving Averages
 EWMA applies weights to the values of a time series. More weight is applied to more recent data points, making them more relevant for future forecasts.
 
+#### Note
+Coding segments done step-by-step from "Time Series from Scratch" on Medium (Summer 2023)
